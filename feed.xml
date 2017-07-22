@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.5.0">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-07-22T10:39:21+03:00</updated>
-  <id>http://localhost:4000//</id>
+  <link href="/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2017-07-22T12:43:23+00:00</updated>
+  <id>//</id>
 
   
     <title type="html">FPThess</title>
@@ -31,18 +31,19 @@
       
       <title type="html">Welcome to functional programming thessaloniki user group!</title>
       
-      <link href="http://localhost:4000/2017/07/14/hello-fpthess/" rel="alternate" type="text/html" title="Welcome to functional programming thessaloniki user group!" />
-      <published>2017-07-14T16:02:06+03:00</published>
-      <updated>2017-07-14T16:02:06+03:00</updated>
-      <id>http://localhost:4000/2017/07/14/hello-fpthess</id>
-      <content type="html" xml:base="http://localhost:4000/2017/07/14/hello-fpthess/">&lt;p&gt;Welcome to &lt;em&gt;Functional Programming Thessaloniki User Group&lt;/em&gt;. &lt;em&gt;FPThess&lt;/em&gt; is the evolution
+      <link href="/2017/07/14/hello-fpthess/" rel="alternate" type="text/html" title="Welcome to functional programming thessaloniki user group!" />
+      <published>2017-07-14T13:02:06+00:00</published>
+      <updated>2017-07-14T13:02:06+00:00</updated>
+      <id>/2017/07/14/hello-fpthess</id>
+      <content type="html" xml:base="/2017/07/14/hello-fpthess/">&lt;p&gt;Welcome to &lt;em&gt;Functional Programming Thessaloniki User Group&lt;/em&gt;. &lt;em&gt;FPThess&lt;/em&gt; is the evolution
 of &lt;em&gt;Thessaloniki Clojure Meetup&lt;/em&gt;. The reason of this transition is to be able to host
 a wider variety of languages and technologies and to, hopefuly, find more people to be involved.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;FPThess&lt;/em&gt; events will take place at &lt;a href=&quot;https://lambdaspace.gr/&quot;&gt;lambdaspace&lt;/a&gt; starting at September 2017.
 The goal is to have presentations and workshops, with at least one event a month.
 To be informed about news and events, check the &lt;a href=&quot;https://fpthess.github.io/feed.xml&quot;&gt;RSS feed&lt;/a&gt;,
-&lt;a href=&quot;https://fpthess.github.io/feed.xml&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://fpthess.github.io/newsletter&quot;&gt;newsletter&lt;/a&gt; or &lt;a href=&quot;https://community.lambdaspace.gr/&quot;&gt;lambdaspace events&lt;/a&gt;.&lt;/p&gt;
+follow &lt;a href=&quot;https://twitter.com/kongeor&quot;&gt;me on twitter&lt;/a&gt;, subscribe for the &lt;a href=&quot;https://fpthess.github.io/newsletter&quot;&gt;newsletter&lt;/a&gt; or
+check &lt;a href=&quot;https://community.lambdaspace.gr/&quot;&gt;lambdaspace events&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you want to present something or just say hello, please &lt;a href=&quot;https://fpthess.github.io/contact&quot;&gt;contact&lt;/a&gt; me.&lt;/p&gt;
 
