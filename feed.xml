@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.4.5">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.5.0">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-07-21T12:51:46+03:00</updated>
+  <updated>2017-07-22T10:39:21+03:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -41,8 +41,8 @@ a wider variety of languages and technologies and to, hopefuly, find more people
 
 &lt;p&gt;&lt;em&gt;FPThess&lt;/em&gt; events will take place at &lt;a href=&quot;https://lambdaspace.gr/&quot;&gt;lambdaspace&lt;/a&gt; starting at September 2017.
 The goal is to have presentations and workshops, with at least one event a month.
-To be informed about news and events, check the &lt;a href=&quot;https://fpthess.github.io/feed.xml&quot;&gt;RSS feed&lt;/a&gt;, &lt;a href=&quot;https://fpthess.github.io/feed.xml&quot;&gt;twitter&lt;/a&gt;
-or &lt;a href=&quot;https://community.lambdaspace.gr/&quot;&gt;lambdaspace events&lt;/a&gt;.&lt;/p&gt;
+To be informed about news and events, check the &lt;a href=&quot;https://fpthess.github.io/feed.xml&quot;&gt;RSS feed&lt;/a&gt;,
+&lt;a href=&quot;https://fpthess.github.io/feed.xml&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://fpthess.github.io/newsletter&quot;&gt;newsletter&lt;/a&gt; or &lt;a href=&quot;https://community.lambdaspace.gr/&quot;&gt;lambdaspace events&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you want to present something or just say hello, please &lt;a href=&quot;https://fpthess.github.io/contact&quot;&gt;contact&lt;/a&gt; me.&lt;/p&gt;
 
